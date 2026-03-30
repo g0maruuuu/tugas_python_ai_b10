@@ -61,6 +61,7 @@ print(f"Pengurangan  (x - z)  = {x - z}")
 print(f"Perkalian    (x * z)  = {x * z}")
 print(f"Pembagian    (x / z)  = {x / z:.2f}")
 print(f"Bagi Bulat   (x // z) = {x // z}")
+print(f"Modulus/Sisa (x % z)  = {x % z}")
 print("="*50)
 
 #--------
