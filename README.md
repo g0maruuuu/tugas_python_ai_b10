@@ -1,8 +1,8 @@
-# 📚 Ringkasan Tugas Python
+#  Ringkasan Tugas Python
 
 ---
 
-## 📄 Tugas 4 — Struktur Data Python
+##  Tugas 4 — Struktur Data Python
 
 **Topik:** List, Tuple, Set, Dict, Nested Structure, Comprehension, Keanggotaan
 
@@ -48,7 +48,7 @@ Mengecek keberadaan item di list dan set menggunakan operator `in`, lalu menampi
 
 ---
 
-## 📄 Tugas 5 — Function & OOP Dasar
+##  Tugas 5 — Function & OOP Dasar
 
 **Topik:** Fungsi, Type Hint, Docstring, Class, Method, `__str__`
 
@@ -78,7 +78,7 @@ Dijalankan dalam blok `if __name__ == "__main__"`:
 
 ---
 
-## 📄 Tugas 6 — NumPy, Pandas, File I/O & OOP Lanjut
+##  Tugas 6 — NumPy, Pandas, File I/O & OOP Lanjut
 
 **Topik:** NumPy statistik, Pandas DataFrame, File I/O `.txt`, Class `GradeBook`
 
@@ -114,5 +114,3 @@ Class yang membungkus DataFrame dan menyediakan method analisis:
 Blok `if __name__ == "__main__"` menjalankan seluruh alur: cetak statistik NumPy → tampilkan DataFrame → tulis file → instansiasi `GradeBook` → cetak hasil analisis → simpan ringkasan tambahan ke file yang sama.
 
 ---
-
-*Dibuat sebagai ringkasan akademik — Pemrograman Python*
