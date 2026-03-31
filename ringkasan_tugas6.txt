@@ -1,0 +1,43 @@
+==================================================
+ Ringkasan Statistik Numpy
+==================================================
+Jumlah data    : 12
+Rata-rata      : 65.50
+Median         : 69.50
+Standar Deviasi: 19.60
+Nilai Minimum  : 23
+Nilai Maksimum : 93
+
+==================================================
+Ringkasan Dataframe Pandas
+==================================================
+Jumlah baris   : 12
+Jumlah LULUS   : 6
+Jumlah TDK LULUS: 6
+
+Detail Mahasiswa:
+Nama       NIM       Nilai  Status
+----------------------------------------
+Abel       A100         78  LULUS
+Fripp      A101         67  TIDAK LULUS
+Comus      A102         93  LULUS
+Gabriel    A103         62  TIDAK LULUS
+Ale        A104         74  LULUS
+Alex       A105         23  TIDAK LULUS
+Michael    A106         55  TIDAK LULUS
+Frank      A107         91  LULUS
+Logan      A108         70  LULUS
+Matilda    A109         34  TIDAK LULUS
+Chuck      A110         70  LULUS
+Walter     A111         69  TIDAK LULUS
+==================================================
+
+==================================================
+ ringkasan oop: gradebook
+==================================================
+Jumlah data    : 12
+Rata-rata nilai: 65.5
+Pass rate      : 50.0%
+Jumlah LULUS   : 6
+Jumlah TIDAK LULUS: 6
+==================================================
